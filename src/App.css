@@ -8,8 +8,16 @@ body {
   background-color: #fff;
 }
 
+h1 {
+  color: #f25922;
+  font-size: 2rem;
+}
+
 h2 {
   color: #03a696;
+}
+h3 {
+  color: #591404;
 }
 p {
   color: black;

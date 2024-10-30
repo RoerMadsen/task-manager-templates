@@ -13,19 +13,30 @@ function App() {
 
   return (
     <>
-      <h2>Input felt med outline fra mui</h2>
+      <h1>Oversigt over mulige komponenter til Task-Manager App</h1>
+      <p>
+        Her kan vi løbende indsætte kodestykker, som vi mener kan være relevante
+        til app-en
+        <br />
+        og samtidigt øve os i at bruge react, inden vi går igang med at kode
+        siden/appen.
+      </p>
+      <h2>Input felt med outline</h2>
+      <h3>mui.com</h3>
       <p>
         Jeg synes det er et godt og simpelt felt - fordel at placeholder/label
         forbliver synligt
       </p>
       <InputField />
       <h2>Select med chip fra mui</h2>
+      <h3>mui.com</h3>
       <p>
         Overskuelig liste og man kan følge med i hvad man har valgt uden at
         skulle scrolle listen igennem igen
       </p>
       <SelectChip />
       <h2>Speed dial fra mui</h2>
+      <h3>mui.com</h3>
       <p>
         Sjov måde at lave en genvej til at tilføje og rette i to-do lister, men
         kan give problemer ifht. tilgængelighed, når man kommer til at ramme
